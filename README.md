@@ -1,7 +1,7 @@
 # Eon-Launcher (Build on DEV TESTING x64)
 This was just eon v1 src
 
-- `https://github.com/zinx28/Eon/blob/main/UiDesktopApp5/Window1.xaml.cs` this contains the apis for login
+- `https://github.com/TGNick/Eon/blob/main/UiDesktopApp5/Window1.xaml.cs` this contains the apis for login
 
 # Theres difference branches wow!
 - I've changed some stuff (like made updater local host)
